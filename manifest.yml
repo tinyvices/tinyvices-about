@@ -1,0 +1,4 @@
+---
+applications:
+- name: about 
+  memory: 256MB
