@@ -1,4 +1,7 @@
 ---
 applications:
-- name: about 
-  memory: 256MB
+- name: about
+  path: build 
+  memory: 16MB
+  buildpacks:
+    - https://github.com/cloudfoundry/staticfile-buildpack.git
