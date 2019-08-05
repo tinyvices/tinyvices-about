@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">tinyvices.io</h1>
         </header>
         <p className="App-intro">
-	    Updated 11:04pm
+	    Updated 12:57am
         </p>
       </div>
     );
